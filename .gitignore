@@ -1,14 +1,5 @@
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-
 data/
-*.csv
-*.xlsx
-*.soft
 *.h5ad
-
-venv/
-.venv/
-
-.env
+*.txt.gz
+*.csv.gz
+.ipynb_checkpoints/
