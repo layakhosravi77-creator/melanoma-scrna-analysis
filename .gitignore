@@ -3,3 +3,6 @@ data/
 *.txt.gz
 *.csv.gz
 .ipynb_checkpoints/
+
+!data/
+!data/GSE72056_melanoma_single_cell_revised_v2.txt.gz
